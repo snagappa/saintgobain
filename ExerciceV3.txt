@@ -1,0 +1,24 @@
+Exercise
+In order to prepare for your interview, we ask you to prepare an exercise that
+will evaluate your skills in data analysis and reporting.
+
+You have received herewith a dataset representing the results by commune
+French vote on a fictitious referendum held in 2013.
+
+We propose to answer the following question:
+"What can you teach us about this data? "
+
+For example, you can help you with additional public data:
+- http://tiny.cc/a924gy
+- http://tiny.cc/ia43gy
+- http://tiny.cc/mc43gy
+
+We invite you to work preferentially with Python or R.
+During the interview, we will ask you to present your results and your approach
+to get them (source code, tools used, etc.).
+
+Remember to bring a computer! If you can not bring one, contact
+us so that we can lend you one during the interview.
+
+During the interview, you may be required to provide analysis
+complementary in real time.
